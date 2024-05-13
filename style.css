@@ -19,3 +19,15 @@ h1, h3{
     font-family: "Pacifico", cursive;
     color:#962a65
 }
+
+a:hover{
+    color:#962a65
+}
+
+.btn:hover{
+    background-color:#962a65
+}
+
+.nav-link:hover{
+    color:#962a65
+}
