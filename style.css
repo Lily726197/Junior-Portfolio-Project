@@ -9,3 +9,13 @@ body{
 .btn-info{
     background-color: #A4C2F5
 }
+
+.navbar-brand{
+    font-family: "Pacifico", cursive;
+    color: #962a65
+}
+
+h1, h3{
+    font-family: "Pacifico", cursive;
+    color:#962a65
+}
